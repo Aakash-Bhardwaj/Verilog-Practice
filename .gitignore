@@ -1,0 +1,12 @@
+# Icarus Verilog
+a.out
+*.vvp
+
+# Waveforms
+*.vcd
+
+# VS Code
+.vscode/
+
+# Linux temp files
+*~
