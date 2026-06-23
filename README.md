@@ -19,6 +19,7 @@ This repository contains Verilog implementations of digital design concepts, HDL
 
 ## Repository Structure
 
+```text
 01_Basic_Gates/
 02_Vectors/
 03_Combinational_Logic/
@@ -26,3 +27,4 @@ This repository contains Verilog implementations of digital design concepts, HDL
 05_Counters/
 06_FSM/
 07_Mini_Projects/
+```
