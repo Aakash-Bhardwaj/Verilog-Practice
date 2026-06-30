@@ -1,9 +1,11 @@
 # Icarus Verilog
+sim
 a.out
 *.vvp
 
 # Waveforms
 *.vcd
+*.gtkw
 
 # VS Code
 .vscode/
