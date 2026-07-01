@@ -7,6 +7,12 @@ a.out
 *.vcd
 *.gtkw
 
+# yosys generated files
+*.dot
+
+# Temporary SVGs
+*.svg.new
+
 # VS Code
 .vscode/
 
